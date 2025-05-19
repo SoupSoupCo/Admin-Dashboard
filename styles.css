@@ -244,6 +244,7 @@ body {
     background-color: white;
     border-radius: 7px;
     padding: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
 }
 
 #trend-1,#trend-2,#trend-3,#trend-4 {
